@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Homework_3_3_2</string>
+    <string name="String_ok">Применить</string>
+    <string name="tv_text">Москва - столица великой России</string>
+    <string name="Black">Чёрный</string>
+    <string name="Green">Зелёный</string>
+    <string name="Blue">Синий</string>
+    <string name="Large">Большая</string>
+    <string name="Middle">Средняя</string>
+    <string name="Small">Маленькая</string>
+    <string-array name="countries">
+        <item>Русский</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>@string/Black</item>
+        <item>@string/Green</item>
+        <item>@string/Blue</item>
+    </string-array>
+
+    <string-array name="margins">
+        <item>@string/Large</item>
+        <item>@string/Middle</item>
+        <item>@string/Small</item>
+    </string-array>
+</resources>

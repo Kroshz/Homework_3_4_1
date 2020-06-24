@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Homework_3_4_1</string>
+    <string name="String_ok">Accept</string>
+    <string name="tv_text">London is the capital of the Great Britain</string>
+    <string name="Black">Black</string>
+    <string name="Green">Green</string>
+    <string name="Blue">Blue</string>
+    <string name="Large">Large</string>
+    <string name="Middle">Middle</string>
+    <string name="Small">Small</string>
+    <string-array name="countries">
+        <item>Russian</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>@string/Black</item>
+        <item>@string/Green</item>
+        <item>@string/Blue</item>
+    </string-array>
+
+    <string-array name="margins">
+        <item>@string/Large</item>
+        <item>@string/Middle</item>
+        <item>@string/Small</item>
+    </string-array>
+</resources>

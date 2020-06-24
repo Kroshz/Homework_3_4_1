@@ -1,0 +1,58 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\Homework_3_3_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru-rRU\\values-ru-rRU.xml",
+            "map": [
+                {
+                    "source": "D:\\Android\\Homework_3_3_2\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,7,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,313,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,41,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,350,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,6,11,28,29,30,31,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,169,329,1107,1148,1187,1229,1271,1314,1358,1406,1458",
+                        "endLines": "5,10,15,28,29,30,31,32,33,34,35,36",
+                        "endColumns": "19,19,19,40,38,41,41,42,43,47,51,67",
+                        "endOffsets": "164,324,481,1143,1182,1224,1266,1309,1353,1401,1453,1521"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\Homework_3_3_2\\app\\src\\main\\res\\values-ru-rRU\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "37,43,46,49,52,59,66",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1526,1810,1922,2036,2148,2558,2959",
+                        "endLines": "42,45,48,51,58,65,73",
+                        "endColumns": "12,12,12,12,12,12,12",
+                        "endOffsets": "1805,1917,2031,2143,2553,2954,3362"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\Homework_3_3_2\\app\\src\\main\\res\\values-ru-rRU\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20,21,22,23,24,25,26,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "486,532,583,633,684,731,783,834,885,940,996,1055",
+                        "endColumns": "45,50,49,50,46,51,50,50,54,55,58,51",
+                        "endOffsets": "527,578,628,679,726,778,829,880,935,991,1050,1102"
+                    }
+                }
+            ]
+        }
+    ]
+}
